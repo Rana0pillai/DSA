@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "nodemon Practise.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
